@@ -1,0 +1,15 @@
+{
+  "name": "learn-mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": "git@github.com:windchime-yk/learn-mongodb.git",
+  "author": "WhyK <windchimeyk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.5.6"
+  }
+}
